@@ -36,6 +36,8 @@ fetch(
       data-parent="#accordion"
     >
       <div class="card-body">
+        ${x.date}
+        <br>
         ${x.body}
         <br>
         <br>
