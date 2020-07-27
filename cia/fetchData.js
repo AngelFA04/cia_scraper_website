@@ -40,6 +40,8 @@ fetch(
         <br>
         ${x.body}
         <br>
+        ${x.pdf_links}
+        <br>
         <br>
         <a href=${x.url} target="_blank">Ver más</a>
       </div>
